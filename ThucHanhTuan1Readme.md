@@ -4,7 +4,7 @@
 ## Thông tin sinh viên
 - Họ tên: Hồ Tuấn Kiệt
 - MSSV: BCS230106
-- Lớp: 23CS-GM
+- Lớp: SOFT2
 
 
 
