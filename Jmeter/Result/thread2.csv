@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Home Page,50,124,79,253,30.73,0.000%,1.69354,507.02,0.19,306572.2
+Article Page,50,67,49,119,17.33,0.000%,1.69929,526.30,0.20,317148.2
+TOTAL,100,95,49,253,37.70,0.000%,3.38089,1029.65,0.39,311860.2

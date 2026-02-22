@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Category Page,1279,509,46,19248,766.63,0.156%,16.25655,4394.66,2.00,276819.5
+Article Page,1271,456,48,19236,928.60,0.236%,16.18242,3720.80,2.38,235447.0
+TOTAL,2550,482,46,19248,851.64,0.196%,32.41141,8109.12,4.37,256198.1
